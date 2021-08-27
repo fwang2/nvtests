@@ -28,8 +28,8 @@
 #include <cstdio>
 #include <vector>
 
-#include <helper_cuda.h>
-#include <helper_timer.h>
+#include "helper_cuda.h"
+#include "helper_timer.h"
 
 using namespace std;
 
