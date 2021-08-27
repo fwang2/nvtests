@@ -39,8 +39,8 @@
 #include <cuda_runtime.h>
 
 // includes
-#include <helper_cuda.h>  // helper functions for CUDA error checking and initialization
-#include <helper_functions.h>  // helper for shared functions common to CUDA Samples
+#include "helper_cuda.h"  // helper functions for CUDA error checking and initialization
+#include "helper_functions.h"  // helper for shared functions common to CUDA Samples
 
 #include <cuda.h>
 
